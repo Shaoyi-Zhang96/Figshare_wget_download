@@ -13,6 +13,7 @@ I see a lot of posts on forums asking about how to directly download figshare da
 
 "wget --content-disposition https://ndownloader.figshare.com/articles/xxxxxxxx/versions/x" (The link you copied from the last step)
 
-for example: "wget --content-disposition https://ndownloader.figshare.com/articles/29190726/versions/1"
+for example: 
+"wget --content-disposition https://ndownloader.figshare.com/articles/29190726/versions/1"
 
 It would be recommended to do this in a persistent terminal incase the download gets cancelled. 
