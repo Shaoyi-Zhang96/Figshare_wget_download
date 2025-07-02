@@ -12,6 +12,7 @@ I see a lot of posts on forums asking about how to directly download figshare da
 3. Then You would use this command on your Linux terminal:
 
 "wget --content-disposition https://ndownloader.figshare.com/articles/xxxxxxxx/versions/x (your link)"
+
 for example: "wget --content-disposition https://ndownloader.figshare.com/articles/29190726/versions/1"
 
 It would be recommended to do this in a persistent terminal incase the download gets cancelled. 
